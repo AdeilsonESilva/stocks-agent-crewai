@@ -1,6 +1,3 @@
-Criar um README.md atraente e informativo é essencial para qualquer projeto. Aqui está um exemplo de como você pode estruturar o README.md para o seu projeto de IA:
-
-````markdown
 # 🚀 Projeto: IA na Prática - Rocketseat
 
 ![Banner](link-para-banner-ou-gif)
@@ -43,6 +40,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
+
 ````
 
 2. Navegue até o diretório do projeto:
@@ -79,3 +77,4 @@ Agradeço à [Rocketseat](https://rocketseat.com.br) pelo conteúdo incrível e 
 <p align="center">
   Feito com 💜 por <a href="https://www.linkedin.com/in/silvaadeilson/">Adeilson Evangelista da Silva</a>
 </p>
+````
