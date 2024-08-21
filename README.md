@@ -19,12 +19,6 @@ A aplicação desenvolvida visa automatizar a tarefa de indicação de stocks.
 - **Python** - Linguagem base para o desenvolvimento.
 - **crewAI** - Ferramenta para [descrever como o crewAI foi utilizado].
 
-## 📸 Demonstração
-
-Confira abaixo um print da aplicação rodando:
-
-![Demonstração](link-para-imagem-ou-gif)
-
 ## 🚀 Funcionalidades
 
 - Usar agentes e tarefas para consultar a stock
