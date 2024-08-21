@@ -68,4 +68,3 @@ Agradeço à [Rocketseat](https://rocketseat.com.br) pelo conteúdo incrível e 
 <p align="center">
   Feito com 💜 por <a href="https://www.linkedin.com/in/silvaadeilson/">Adeilson Evangelista da Silva</a>
 </p>
-````
