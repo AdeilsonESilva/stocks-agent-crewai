@@ -136,6 +136,7 @@ crew = Crew(
 
 # result = crew.kickoff(inputs={'ticket': 'AAPL'})
 # https://streamlit.io/cloud
+# streamlit run streamlist-stocks.py
 
 with st.sidebar:
   st.header('Enter de Stock to Research')
