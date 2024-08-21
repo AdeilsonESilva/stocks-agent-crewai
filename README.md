@@ -15,9 +15,9 @@ A aplicação desenvolvida visa automatizar a tarefa de indicação de stocks.
 
 ## 🔧 Tecnologias Utilizadas
 
-- **GPT** - Utilizado para [explicar a função específica do GPT no projeto].
+- **GPT** - Utilizado como LLM.
 - **Python** - Linguagem base para o desenvolvimento.
-- **crewAI** - Ferramenta para [descrever como o crewAI foi utilizado].
+- **crewAI** - Ferramenta para criação dos agentes e tarefas.
 
 ## 🚀 Funcionalidades
 
