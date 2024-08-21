@@ -1,8 +1,6 @@
 # 🚀 Projeto: IA na Prática - Rocketseat
 
-![Banner](link-para-banner-ou-gif)
-
-![alt text](https://github.com/AdeilsonESilva/stocks-agent-crewai/blob/main/image.png?raw=true)
+![imagem do projeto rodando](https://github.com/AdeilsonESilva/stocks-agent-crewai/blob/main/image.png?raw=true)
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow">
